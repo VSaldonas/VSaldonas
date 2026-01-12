@@ -2,6 +2,8 @@
 
 **`Cybersecurity Student`**
 
+<img align="center" alt="VSald-gif" src="https://media.tenor.com/MSlshZS6CVYAAAAM/satoru-gojo---correndo.gif">
+
 Meu nome é Victor Hugo Torres Saldonas. Tenho 18 anos de idade e estou iniciando minha jornada na área da Cibersegurança.
 Sou apaixonado por ferramentas de segurança e procuro evoluir constantemente na área, a fim de ajudar as pessoas ao meu redor com a segurança de suas informações online.
 
