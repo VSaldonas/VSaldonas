@@ -29,3 +29,8 @@ Contato: victorsaldonas@gmail.com
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
+
+## Perfil do Linkedin ##
+ <div>
+   <a href="https://www.linkedin.com/in/victor-hugo-torres-saldonas-aa4962375/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%ffffff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
