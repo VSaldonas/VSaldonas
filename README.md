@@ -4,10 +4,11 @@
 
  <img align="center" alt="VSald-gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhzNGpyNjRsc2dwZ2x5ZTQ2OWh4bm9pcTNqZmRtcWx1c21tdWJkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif">
 
-Contato: victorsaldonas@gmail.com
-
 Meu nome é Victor Hugo Torres Saldonas. Tenho 18 anos de idade e estou iniciando minha jornada na área da Cibersegurança.
 Sou apaixonado por ferramentas de segurança e procuro evoluir constantemente na área, a fim de ajudar as pessoas ao meu redor com a segurança de suas informações online.
+
+Contato: victorsaldonas@gmail.com
+
 
 ## Habilidades Técnicas
 
