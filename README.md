@@ -2,11 +2,9 @@
 
 **`Cybersecurity Student`**
 
-<div>
-   <a href="https://github.com/VSaldonas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VSaldonas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
 
 Meu nome é Victor Hugo Torres Saldonas. Tenho 18 anos de idade e estou iniciando minha jornada na área da Cibersegurança.
 Sou apaixonado por ferramentas de segurança e procuro evoluir constantemente na área, a fim de ajudar as pessoas ao meu redor com a segurança de suas informações online.
