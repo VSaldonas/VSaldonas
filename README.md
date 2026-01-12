@@ -17,23 +17,8 @@ Sou apaixonado por ferramentas de segurança e procuro evoluir constantemente na
  
  5 - Montagem básica de hardwares para Hacking: Montagem de Arduino Uno, Leonardo, criação de Servidor Web com uma placa ESP32
 
-<p align="left">
-    <a href="https://github.com/VSaldonas">
-        <img                  
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/VSaldonas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/VSaldonas">
-        <img 
-            alt="Seguidores" 
-            title="Siga-me no GitHub!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/VSaldonas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
+## Minhas Linguagens de Programação ## 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
